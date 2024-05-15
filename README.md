@@ -1,21 +1,16 @@
-### Hi there 👋
+# 💫 About Me:
+¡Hola! Soy una apasionada de la ciberseguridad y la seguridad de la información, con un firme compromiso de proteger y asegurar los datos en un mundo cada vez más digitalizado. Mi objetivo es sobresalir en este campo, contribuir activamente a proyectos innovadores y seguir aprendiendo y creciendo profesionalmente.<br><br>Sobre mí<br>Soy una entusiasta de la ciberseguridad con un enfoque en la protección de sistemas y datos frente a amenazas cibernéticas. Mi curiosidad innata y mi determinación me han llevado a profundizar en diversas áreas de la seguridad de la información, desde el análisis de vulnerabilidades hasta la implementación de medidas de seguridad robustas.<br><br>Experiencia y Habilidades<br>Análisis de Vulnerabilidades: Experto en identificar y mitigar riesgos de seguridad en aplicaciones y sistemas.<br>Penetration Testing: Realización de pruebas de penetración para evaluar la seguridad de sistemas y redes.<br>Seguridad en Redes: Configuración y monitoreo de redes seguras para prevenir accesos no autorizados y ataques cibernéticos.<br>Criptografía: Conocimientos avanzados en técnicas de cifrado y seguridad criptográfica para proteger la integridad y confidencialidad de los datos.<br>Normativas y Cumplimiento: Familiarizado con estándares y normativas de seguridad como ISO 27001, GDPR, y NIST.<br><br>Mis Proyectos<br>Me encanta participar en proyectos desafiantes que me permiten aplicar mis conocimientos y habilidades en ciberseguridad. Algunos de mis proyectos destacados incluyen:<br><br>Sistema de Detección de Intrusos (IDS): Desarrollé e implementé un sistema de detección de intrusos para monitorear y responder a actividades sospechosas en tiempo real.<br>Auditoría de Seguridad: Realicé auditorías de seguridad exhaustivas en aplicaciones web para identificar y corregir vulnerabilidades críticas.<br>Cifrado de Comunicaciones: Implementé soluciones de cifrado para proteger las comunicaciones entre dispositivos en una red empresarial.<br><br>Educación y Certificaciones<br>Licenciatura en pedagogía<br>Licenciatura en matemáticas aplicadas y computación.<br>Certificación en Ethical Hacking (CEH)<br>Certificación en ISO 27001<br><br>Lo que busco<br>Estoy en constante búsqueda de oportunidades para colaborar en proyectos innovadores y desafiantes que me permitan aportar mis conocimientos y aprender de los mejores en el campo. Si buscas a alguien comprometido, proactivo y con una sólida base en ciberseguridad y seguridad de la información, no dudes en contactarme. ¡Estoy listo para enfrentar nuevos retos y contribuir al éxito de tu equipo!.<br><br>Contacto<br>Puedes conocer más sobre mis proyectos y experiencia visitando mis repositorios aquí en GitHub, o conectando conmigo a través de LinkedIn.<br><br>¡Gracias por visitar mi perfil! Estoy ansiosa por conectarme con otros profesionales apasionados por la ciberseguridad y explorar nuevas oportunidades juntos.
 
-<!--
-**SaritahXhi/SaritahXhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sarah&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarah&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![image]({https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white})
+---
+[![](https://visitcount.itsvg.in/api?id=Sarah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
