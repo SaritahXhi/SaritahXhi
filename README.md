@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image]({badge&logo=github&logoColor=white})
+![image]({https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white})
 
 
 
